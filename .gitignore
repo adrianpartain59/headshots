@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+config.json
+# never commit photos of people
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic

@@ -1,0 +1,9 @@
+{
+  "name": "headshots",
+  "version": "0.1.0",
+  "description": "Turns an ordinary photo into professional headshots that still look exactly like the person: grades the photo, relights it, frames it, swaps outfits, finishes on white and your brand colour, and makes before/afters.",
+  "author": { "name": "Adrian Partain", "url": "https://github.com/adrianpartain59" },
+  "repository": "https://github.com/adrianpartain59/headshots",
+  "license": "MIT",
+  "keywords": ["headshots", "profile-picture", "portrait", "relighting", "gemini", "nano-banana", "background-replacement", "claude-code", "skill"]
+}

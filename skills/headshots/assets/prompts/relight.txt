@@ -1,0 +1,15 @@
+PHOTO RESTORATION AND RELIGHTING of the attached photo. Not a new portrait. {SUBJECT} must come out as exactly the same person in exactly the same moment; only the camera and the light get better. Likeness is the most important thing.
+
+THE SOURCE'S PROBLEMS, to be replaced: {SOURCE_PROBLEMS}
+
+LIGHT, the main job: it must be obvious that a professional lit this. Key: a large softbox 45 degrees to camera-left and above eye level, so the camera-left side of the face is bright and the camera-right cheek, temple and side of the nose fall into a soft, open shadow (about 2:1 ratio) with a smooth roll-off. A clear softbox catchlight high in each eye. A soft, subtle rim light from behind camera-right on hair, ear and shoulder, not blown out. Gentle shadow under the jaw. Bright overall exposure, crisp clean whites, rich natural healthy skin colour, neutral daylight white balance with no red, orange or magenta cast and no shine. Not flat, not grey, not dull, not dramatic or moody: a polished executive headshot. No HDR, no clarity or texture boost.
+
+CAMERA: medium-format, 110mm lens, focus on the eyes, clean noise-free file, smooth tonal roll-off, natural fine detail. Remove noise, blur, haze, smearing, over-sharpening and compression.
+
+SKIN, the part most often done wrong: only show marks that can be seen in the source; do NOT add moles, spots, freckles, pimples or enlarged pores and do not darken the few that are there. Even, soft skin with fine natural texture, as real skin looks under a large softbox; not plastic, not gritty. {FACIAL_HAIR} No coarse, individually drawn hairs. Natural tooth and lip colour.
+
+DO NOT CHANGE THE PERSON: face shape and width, jaw, chin, cheeks, forehead, hairline, nose, ears, eyebrow shape and colour, {EYES}, the exact eye opening, gaze, {EXPRESSION}, head position and tilt, pose, age, {HAIR}. CLOTHING exactly the same: {CLOTHES}. Do not slim, beautify, age or de-age.
+
+BACKGROUND: plain seamless light grey studio backdrop, softly lit, nothing else in frame: no softbox, no equipment, no other people.
+
+FRAMING: same square crop, same head size and position. Do not zoom, recentre or re-pose.

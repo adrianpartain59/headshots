@@ -1,0 +1,1 @@
+Change ONLY the colour of the {GARMENT}, from {OLD_COLOUR} to {NEW_COLOUR}. The same fabric, texture, collar, hardware, folds and shading. The background stays pure flat white (#FFFFFF). Everything else stays pixel-for-pixel identical: face, skin, hair, neck, expression, other clothes, lighting, position, size and crop. Do not relight, retouch, move, resize or redraw the person.

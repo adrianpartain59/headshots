@@ -1,0 +1,5 @@
+Outpainting task. This portrait was placed on a larger square white canvas, so the clothing is now cut off by straight vertical edges on the left and right, with empty white beyond them.
+
+Fill ONLY the missing parts: continue both shoulders and upper arms naturally into the empty white areas, down to the bottom edge of the frame, as a relaxed portrait with both arms resting down at the sides. Shoulders slope and round off into the sleeves with believable human proportions, like a normal head-and-shoulders headshot. Same garment: {CLOTHES}; identical colour, texture, lighting, sharpness and grain, with no visible seam where the old edge was. Leave clean white backdrop above and outside the shoulders.
+
+Everything already in the photo stays exactly as it is: same face, expression, skin, hair and flyaways, neck, collar, same position, same size, same colour, same brightness. Do not zoom, move, recentre, retouch, relight or redraw. Background stays pure flat white (#FFFFFF): no shadow, gradient or texture.

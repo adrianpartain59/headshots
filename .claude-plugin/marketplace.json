@@ -1,0 +1,13 @@
+{
+  "name": "headshots",
+  "description": "Professional headshots from ordinary photos, as a Claude Code skill.",
+  "owner": { "name": "Adrian Partain", "url": "https://github.com/adrianpartain59" },
+  "plugins": [
+    {
+      "name": "headshots",
+      "source": "./",
+      "description": "Grades a photo, relights it like a studio shot without changing the person, frames it, swaps outfits, and finishes it on white and your brand colour.",
+      "version": "0.1.0"
+    }
+  ]
+}

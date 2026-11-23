@@ -1,0 +1,7 @@
+CROP IS LOCKED, most important rule: do NOT zoom out. The head stays exactly the size and position it has in the source. Only the collar, neck base, shoulders and the very top of the chest fit in the frame, cut off by the bottom edge exactly where the source cuts them off. The face, head and neck are not redrawn at all.
+
+Change ONLY the clothing. NEW CLOTHING: {OUTFIT} It fits the person's real shoulders, real fabric texture, natural folds, same light direction as on the face, collar sitting naturally on the neck with a soft contact shadow. No logos, no pins.
+
+The background stays perfectly flat pure white (#FFFFFF). Everything else stays pixel-for-pixel identical: same face, skin, facial hair, eyes, lips, expression, hair (every loose strand), ears, lighting, colour, brightness and contrast, same shoulder position and width, same square crop. Do not relight, retouch, sharpen, smooth, move, resize or redraw the head. Natural soft hair edges, no halo, no outline.
+
+Reminder: same zoom as the source; the head fills more than half of the frame height.
